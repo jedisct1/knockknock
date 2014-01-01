@@ -3,7 +3,7 @@
 //  KnockKnock
 //
 //  Created by Frank Denis on 5/20/12.
-//  Copyright (c) 2012 Frank Denis. All rights reserved.
+//  Copyright (c) 2012-2014 Frank Denis. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
