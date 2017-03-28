@@ -17,3 +17,8 @@ that you can just launch it and forget it. It has no impact on the battery.
 
 I wrote that thing to use a custom APN proxy. Super ugly, but it does
 the trick.
+
+--
+
+NOTE: Apparently, "Goliath" is the name of a tool to bypass the
+iCloud activation lock. It is completely unrelated to this project.
